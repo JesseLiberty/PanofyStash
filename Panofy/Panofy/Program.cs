@@ -6,8 +6,6 @@ namespace Panofy
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("Are we the same?");
         }
     }
 }

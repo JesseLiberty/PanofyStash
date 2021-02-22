@@ -1,0 +1,20 @@
+﻿using System;
+
+namespace Panofy
+{
+<<<<<<< HEAD
+    class Program
+=======
+    public class Program
+>>>>>>> da77c91258a24c40caa902b74e71183577d4876d
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World!");
+<<<<<<< HEAD
+=======
+            Console.WriteLine("Are we the same?");
+>>>>>>> da77c91258a24c40caa902b74e71183577d4876d
+        }
+    }
+}
