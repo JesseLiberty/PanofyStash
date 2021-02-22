@@ -7,6 +7,7 @@ namespace Panofy
         static void Main(string[] args)
         {
             Console.WriteLine("Hello main branch!");
+            Console.WriteLine("Another output line");
         }
     }
 }
